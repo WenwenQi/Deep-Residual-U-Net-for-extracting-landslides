@@ -6,7 +6,7 @@
 ## Dataset:
 landslides train and test data：<br>
 (1) GeoEye-1 image tiles, 600*600 pixels,  1443 tiles;<br>
-(2) landslides map label tiles, 600*600 pixels, 1443 tiles;<br>
+(2) landslides map label tiles, 600 600 pixels, 1443 tiles;<br>
 you can get this dataset  from Email: qiww@lreis.ac.cn .<br>
 ![](https://github.com/WenwenQi/Deep-Residual-U-Net-for-extracting-landslides/blob/master/data-ls/data%20samples/train_282.jpg "image")
 ![](https://github.com/WenwenQi/Deep-Residual-U-Net-for-extracting-landslides/blob/master/data-ls/data%20samples/train_282_label.jpg "groundtruth")
