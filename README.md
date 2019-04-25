@@ -1,4 +1,6 @@
 # Deep-Residual-U-Net-for-extracting-landslides
+> This work has been submitted to 'Landslides' journal. To use this work, please contact and get permission from Wenwen Qi (qiww@lreis.ac.cn). Cite this work as: Qi, W., Wei, M., Yang, W. et al. (2019).
+
 > The Deep Residual U-Net is proposed based on the U-Net and the residual neural network (ResNet).<br>
 > This work introduced a new deep learning approach designed to automatically identify landslides from very high spatial resolution (0.5 m) images. This proposed method was tested in Tianshui city, Gansu province, where a heavy rainfall triggered more than 10,000 landslides in August 2013. The method only used 3-band and achieved high performance (recall 88.5%, precision 63.5%) in this spatially heterogeneous region. The authors wish the landslide community could use this state-of-the-art method to aid landslide mappings. <br>
 ## Dataset:
