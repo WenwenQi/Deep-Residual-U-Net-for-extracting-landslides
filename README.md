@@ -11,9 +11,11 @@ you can get this dataset  from Email: qiww@lreis.ac.cn .<br>
 ![](https://github.com/WenwenQi/Deep-Residual-U-Net-for-extracting-landslides/blob/master/data-ls/data%20samples/train_282.jpg "image")
 ![](https://github.com/WenwenQi/Deep-Residual-U-Net-for-extracting-landslides/blob/master/data-ls/data%20samples/train_282_label.jpg "groundtruth")
 
+## Output
+![](https://github.com/WenwenQi/Deep-Residual-U-Net-for-extracting-landslides/blob/master/data-ls/lanslide.gif "output result")
+> RGB image > [Red] groundtruth > [Yellow] extract result > overlay result <br>
 ## Requirements:
 > Ubuntu<br>
 > Python3<br>
 > pyTorch 0.4<br>
 > or based on NVIDIA-docker image 'pyTorch': nvcr.io/nvidia/pytorch:18.08-py3<br>
-
