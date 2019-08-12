@@ -29,5 +29,5 @@ you can get this dataset  from Email: qiww@lreis.ac.cn .<br>
 >  year={2019},<br>
 >  publisher={Github},<br>
 >  journal={GitHub repository},<br>
->  howpublished={\url{https://https://github.com/WenwenQi/Deep-Residual-U-Net-for-extracting-landslides}},<br>
+>  howpublished={\url{https://github.com/WenwenQi/Deep-Residual-U-Net-for-extracting-landslides}},<br>
 >}<br>
