@@ -1,8 +1,9 @@
 # Deep-Residual-U-Net-for-extracting-landslides
-> This work has been submitted to the journal 'Landslides'. To use this work, please contact and get a permission from Wenwen Qi (qiww@lreis.ac.cn). Cite this work as: Qi, W., Wei, M., Yang, W. et al. (2019).
+> This work has been submitted to the journal 'Landslides'. To use this work, please contact and get a permission from Wenwen Qi (qiww@lreis.ac.cn). 
 
 > The Deep Residual U-Net is proposed based on the U-Net and the residual neural network (ResNet).<br>
 > This work introduced a new deep learning approach designed to automatically identify landslides from very high spatial resolution (0.5 m) images. This proposed method was tested in Tianshui city, Gansu province, where a heavy rainfall triggered more than 10,000 landslides in August 2013. The method only used 3-band and achieved high performance (recall 88.5%, precision 63.5%) in this spatially heterogeneous region. The authors wish the landslide community could use this state-of-the-art method to aid landslide mappings. <br>
+
 ## Dataset:
 GeoEye-1, 0.5m resolution, Bands [4,3,2].
 landslides train and test data：<br>
@@ -20,3 +21,13 @@ you can get this dataset  from Email: qiww@lreis.ac.cn .<br>
 > Python3<br>
 > pyTorch 0.4<br>
 > or based on NVIDIA-docker image 'pyTorch': nvcr.io/nvidia/pytorch:18.08-py3<br>
+## Citation
+> Use this bibtex to cite this repository:
+> @misc{wenwenqi_reunet_2019,
+>  title={Regional landslides mapping by Deep Residual U-Net},
+>  author={Wenwen Qi},
+>  year={2019},
+>  publisher={Github},
+>  journal={GitHub repository},
+>  howpublished={\url{https://https://github.com/WenwenQi/Deep-Residual-U-Net-for-extracting-landslides}},
+>}
