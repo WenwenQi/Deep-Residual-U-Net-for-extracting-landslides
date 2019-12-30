@@ -15,7 +15,7 @@ you can get this dataset  from Email: qiww@lreis.ac.cn .<br>
 
 ## Output
 ![](https://github.com/WenwenQi/Deep-Residual-U-Net-for-extracting-landslides/blob/master/data-ls/lanslide.gif "output result")
-> RGB image > [Red] groundtruth > [Yellow] extract result > overlay result <br>
+> NIR R G image > [Red] groundtruth > [Yellow] extract result > overlay result <br>
 ## Requirements:
 > Ubuntu<br>
 > Python3<br>
