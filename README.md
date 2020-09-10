@@ -24,11 +24,3 @@ you can get this dataset  from Email: qiww@lreis.ac.cn .<br>
 ## Citation
 > Use this bibtex to cite this repository:<br>
 > Qi, W., Wei, M., Yang, W., Xu, C., & Ma, C. (2020). Automatic Mapping of Landslides by the ResU-Net. Remote Sensing, 12(15), 2487. https://www.mdpi.com/2072-4292/12/15/2487 <br>
-> @misc{wenwenqi_reunet_2019,<br>
->  title={Regional landslides mapping by Deep Residual U-Net},<br>
->  author={Wenwen Qi},<br>
->  year={2019},<br>
->  publisher={Github},<br>
->  journal={GitHub repository},<br>
->  howpublished={\url{https://github.com/WenwenQi/Deep-Residual-U-Net-for-extracting-landslides}},<br>
->}<br>
