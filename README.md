@@ -1,7 +1,5 @@
 # Deep-Residual-U-Net-for-extracting-landslides
 > This work has been published in the journal 'Remote Sensing'. To use this work, please contact Wenwen Qi (qiww@lreis.ac.cn) and cite our article. 
-
-## Citation
 > Use this bibtex to cite this article:<br>
 > Qi, W., Wei, M., Yang, W., Xu, C., & Ma, C. (2020). Automatic Mapping of Landslides by the ResU-Net. Remote Sensing, 12(15), 2487. https://www.mdpi.com/2072-4292/12/15/2487 <br>
 
